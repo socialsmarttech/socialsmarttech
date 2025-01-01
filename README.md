@@ -56,5 +56,3 @@ We're always looking for talented individuals to join our team. Whether you're a
 - **Twitter:** [@SocialSmartTech](https://twitter.com/SocialSmartTech)
 
 ---
-
-Feel free to customize this README.md to better suit your company's branding and goals. Make sure to replace any placeholder text with your actual information. Good luck with your GitHub profile!
