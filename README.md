@@ -1,7 +1,3 @@
-Certainly! Below is a sample README.md that you can use for your GitHub profile repository. This README is designed to be eye-catching and informative, highlighting your company's focus on school and logistics management software.
-
----
-
 # SocialSmartTech
 
 ![SocialSmartTech Logo](https://res.cloudinary.com/dcmwnrvzk/image/upload/f_auto,q_auto,w_896/v1731598362/social-smarttech-logo_hvn5fr.png)
